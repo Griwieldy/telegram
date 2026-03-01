@@ -3,7 +3,7 @@ import random
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8633203145:AAFY3JudapRKYO2aS4xZYhrpLiwmawmD6uQ")
 
 phrases = [
     "Фраза 1",
